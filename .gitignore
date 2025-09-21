@@ -1,0 +1,12 @@
+data/
+test/
+result/
+result_corr/
+
+env/
+
+__pycache__/
+*.pyc
+
+.vscode/
+
